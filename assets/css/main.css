@@ -1108,7 +1108,7 @@ link[rel="icon"] {
   padding-top: 40px;
 }
 .services{
-  background-color: #e2d7d2;
+  background-color: white;
 }
 
 .services .service-item:before {
@@ -1536,12 +1536,15 @@ link[rel="icon"] {
     transform: scale(1.15);
   }
 }
-
+.faq{
+  background-color: #e2d7d2;
+}
 /* Faq Section - Home Page
 ------------------------------*/
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
+  
 }
 
 .faq .content p {
